@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/qtify-anas.com/static/css/main.4550eee2.css",
-    "main.js": "/qtify-anas.com/static/js/main.3454ef96.js",
-    "static/media/headphone.svg": "/qtify-anas.com/static/media/headphone.d5c09563de61ac736c5aba3a61f17400.svg",
-    "static/media/libraryIcon.svg": "/qtify-anas.com/static/media/libraryIcon.9da7847f0ecccb540f049011286257ec.svg",
-    "static/media/shuffleIcon.svg": "/qtify-anas.com/static/media/shuffleIcon.5dede0938e3471bdb96aee59ed3372c1.svg",
-    "static/media/Search icon.svg": "/qtify-anas.com/static/media/Search icon.45e64b0801152069b25cb25ba8482de9.svg",
-    "static/media/RightArrow.svg": "/qtify-anas.com/static/media/RightArrow.493bc99e5d27619b258049136301defe.svg",
-    "static/media/LeftArrow.svg": "/qtify-anas.com/static/media/LeftArrow.349fab4a37522765d67ded09d6524e46.svg",
-    "index.html": "/qtify-anas.com/index.html",
-    "static/media/LeftArrowIcon.svg": "/qtify-anas.com/static/media/LeftArrowIcon.02a6f750fe8a41453d520ac0a5baa419.svg",
-    "static/media/crossBtn.svg": "/qtify-anas.com/static/media/crossBtn.b407063a2f83f389e34091caa2fd9576.svg",
-    "static/media/downArrow.svg": "/qtify-anas.com/static/media/downArrow.507aad26368e802a625b6b6add6e8e91.svg",
-    "static/media/upArrow.svg": "/qtify-anas.com/static/media/upArrow.3bf80501f6e0dca3387fbe2c2ad3362b.svg",
-    "main.4550eee2.css.map": "/qtify-anas.com/static/css/main.4550eee2.css.map",
-    "main.3454ef96.js.map": "/qtify-anas.com/static/js/main.3454ef96.js.map"
+    "main.css": "/qtify-anas/static/css/main.4550eee2.css",
+    "main.js": "/qtify-anas/static/js/main.13b90771.js",
+    "static/media/headphone.svg": "/qtify-anas/static/media/headphone.d5c09563de61ac736c5aba3a61f17400.svg",
+    "static/media/libraryIcon.svg": "/qtify-anas/static/media/libraryIcon.9da7847f0ecccb540f049011286257ec.svg",
+    "static/media/shuffleIcon.svg": "/qtify-anas/static/media/shuffleIcon.5dede0938e3471bdb96aee59ed3372c1.svg",
+    "static/media/Search icon.svg": "/qtify-anas/static/media/Search icon.45e64b0801152069b25cb25ba8482de9.svg",
+    "static/media/RightArrow.svg": "/qtify-anas/static/media/RightArrow.493bc99e5d27619b258049136301defe.svg",
+    "static/media/LeftArrow.svg": "/qtify-anas/static/media/LeftArrow.349fab4a37522765d67ded09d6524e46.svg",
+    "index.html": "/qtify-anas/index.html",
+    "static/media/LeftArrowIcon.svg": "/qtify-anas/static/media/LeftArrowIcon.02a6f750fe8a41453d520ac0a5baa419.svg",
+    "static/media/crossBtn.svg": "/qtify-anas/static/media/crossBtn.b407063a2f83f389e34091caa2fd9576.svg",
+    "static/media/downArrow.svg": "/qtify-anas/static/media/downArrow.507aad26368e802a625b6b6add6e8e91.svg",
+    "static/media/upArrow.svg": "/qtify-anas/static/media/upArrow.3bf80501f6e0dca3387fbe2c2ad3362b.svg",
+    "main.4550eee2.css.map": "/qtify-anas/static/css/main.4550eee2.css.map",
+    "main.13b90771.js.map": "/qtify-anas/static/js/main.13b90771.js.map"
   },
   "entrypoints": [
     "static/css/main.4550eee2.css",
-    "static/js/main.3454ef96.js"
+    "static/js/main.13b90771.js"
   ]
 }
